@@ -81,7 +81,7 @@ while(1);
 ```
 
 ### OUTPUT:
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/431f024c-cd2f-4591-823f-8ed760d615af" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 183711" src="https://github.com/user-attachments/assets/56a59d33-c0f6-46b8-9cc6-5f84dea456d8" />
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/50b10013-fad4-4d78-bb45-be35502896f3" />
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4345128e-0c40-4be4-a32c-b8c36290c621" />
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4df0934d-affb-4513-a645-d6dcba75d316" />
